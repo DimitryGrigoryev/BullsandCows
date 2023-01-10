@@ -1,0 +1,39 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Bulls and Cows/*
+!/Bulls and Cows/task/
+/Bulls and Cows/task/*
+!/Bulls and Cows/task/src/
+!/Bulls and Cows/task/build.gradle
+!/Bulls and Cows/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Branching statements/The sequence/out/
+/Topics/Branching statements/The sequence/out/production/classes/
+/Topics/Floating-point types/Celsius to Fahrenheit/out/
+/Topics/Floating-point types/Celsius to Fahrenheit/out/production/classes/
+/Topics/Floating-point types/Distance/out/
+/Topics/Floating-point types/Distance/out/production/classes/
+/Topics/Floating-point types/Evaluate an expression/out/
+/Topics/Floating-point types/Evaluate an expression/out/production/classes/
+/Topics/Floating-point types/Find X/out/
+/Topics/Floating-point types/Find X/out/production/classes/
+/Topics/Math library/Heron's formula/out/
+/Topics/Math library/Heron's formula/out/production/classes/
+/Topics/Math library/Pow/out/
+/Topics/Math library/Pow/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/
