@@ -13,4 +13,4 @@ Here's the link to the project: https://hyperskill.org/projects/53
 
 Check out my profile: https://hyperskill.org/profile/332266604
 
-[![Изображение](https://vk.cc/cIgeZQ "Логотип ГДК")](https://vk.cc/cIgeZQ)
+[![Изображение](https://avatars.mds.yandex.net/get-yapic/38135/mAXiJvPbj2TrTXBzPxNC3cgkYM-1/islands-retina-middle "Логотип ГДК")](https://vk.cc/cIgh2n)
